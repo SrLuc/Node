@@ -1,0 +1,3 @@
+[submodule "restApiPlaces"]
+	path = restApiPlaces
+	url = https://github.com/SrLuc/restApiPlaces.git
